@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ALLGeekBrains/GB_HomeWork/BuildVariants/app/src/freeConfig/res/layout/activity_main.xml" value="0.28894927536231885" />
+        <entry key="..\:/ALLGeekBrains/GB_HomeWork/BuildVariants/app/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/ALLGeekBrains/GB_HomeWork/BuildVariants/app/src/paidConfig/res/layout/activity_main.xml" value="0.28894927536231885" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
